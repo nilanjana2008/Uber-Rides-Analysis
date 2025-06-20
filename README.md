@@ -2,6 +2,7 @@
 
 ## **📊 Project Overview**
 This project presents an interactive Power BI dashboard analyzing Uber ride data to extract key business insights. The goal was to identify trends in user behavior, booking patterns, and operational performance to support data-driven decision-making in areas like resource allocation, vehicle management, and demand forecasting.
+![Image](https://github.com/user-attachments/assets/943479a6-ef1e-4740-a981-b2e540f6424d)
 
 ## **🎯 Objectives**
 - Understand ride patterns by time, location, and vehicle type.
