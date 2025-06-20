@@ -23,4 +23,12 @@ This project presents an interactive Power BI dashboard analyzing Uber ride data
 - Average Trip Time
 
 
+## **📌 Visuals & Features**
+- Vehicle Type Analysis: Compare total bookings by vehicle category.
+- Pickup & Drop-off Heatmaps: Identify most frequent locations.
+- Time-Based Trends: Area line charts by hour of day and day of week.
+- Interactive Slicers: Filter insights by KPIs such as total bookings.
+- Dynamic Bookmarks: Seamless navigation across different views.
+- Clean UI: Dashboard designed for ease of interpretation and usability.
+
 
