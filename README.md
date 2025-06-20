@@ -10,8 +10,17 @@ This project presents an interactive Power BI dashboard analyzing Uber ride data
 - Create a user-friendly, interactive dashboard for stakeholders.
 
 ## **🛠 Tools & Technologies**
-Power BI
-DAX (Data Analysis Expressions)
-Power Query
+- Power BI 
+- DAX (Data Analysis Expressions)
+- Power Query
+
+  ## 📈 Key KPIs Tracked**
+-Total Bookings
+-Total Booking Value
+-Average Booking Value
+-Average Trip Distance
+-Total Trip Distance
+-Average Trip Time
+
 
 
