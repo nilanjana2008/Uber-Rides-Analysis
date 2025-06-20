@@ -5,9 +5,9 @@ This project presents an interactive Power BI dashboard analyzing Uber ride data
 
 ## **🎯 Objectives**
 - **Understand ride patterns by time, location, and vehicle type.
-   - **Track and visualize key performance indicators (KPIs).
-   - **Identify peak booking times and popular pickup/drop-off zones.
-   - **Create a user-friendly, interactive dashboard for stakeholders.
+- **Track and visualize key performance indicators (KPIs).
+- **Identify peak booking times and popular pickup/drop-off zones.
+- **Create a user-friendly, interactive dashboard for stakeholders.
 
 ## **🛠 Tools & Technologies**
 Power BI
@@ -15,20 +15,3 @@ DAX (Data Analysis Expressions)
 Power Query
 
 
-### 2. Data Cleaning
-   - **Remove Duplicates**: Identify and remove duplicate entries to avoid skewed results.
-   - **Handle Missing Values**: Drop rows or columns with missing values if they are insignificant; fill values where essential.
-   - **Fix Data Types**: Ensure all columns have consistent data types (e.g., dates as `datetime`, prices as `float`).
-   - **Validation**: Check for any remaining inconsistencies and verify the cleaned data.
-
-### 3. Load Data into MySQL and PostgreSQL
-   - **Set Up Connections**: Connect to MySQL using `sqlalchemy` and load the cleaned data into  database.
-   - **Table Creation**: Set up tables in both MySQL  using Python SQLAlchemy to automate table creation and data insertion.
-
-### 4. SQL Analysis: Complex Queries and Business Problem Solving
-   - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
-     - Revenue trends across branches and categories.
-     - Identifying best-selling product categories.
-     - Sales performance by time, city, and payment method.
-     - Analyzing peak sales periods and customer buying patterns.
-     - Profit margin analysis by branch and category.
