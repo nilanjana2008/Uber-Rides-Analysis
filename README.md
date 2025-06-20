@@ -1,4 +1,5 @@
 🚗 Uber Ride Analytics Dashboard – Power BI Project
+
 📊 Project Overview
 This project presents an interactive Power BI dashboard analyzing Uber ride data to extract key business insights. The goal was to identify trends in user behavior, booking patterns, and operational performance to support data-driven decision-making in areas like resource allocation, vehicle management, and demand forecasting.
 
