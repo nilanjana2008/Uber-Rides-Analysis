@@ -15,12 +15,12 @@ This project presents an interactive Power BI dashboard analyzing Uber ride data
 - Power Query
 
   ## 📈 Key KPIs Tracked**
--Total Bookings
--Total Booking Value
--Average Booking Value
--Average Trip Distance
--Total Trip Distance
--Average Trip Time
+- Total Bookings
+- Total Booking Value
+- Average Booking Value
+- Average Trip Distance
+- Total Trip Distance
+- Average Trip Time
 
 
 
