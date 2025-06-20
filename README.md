@@ -31,4 +31,9 @@ This project presents an interactive Power BI dashboard analyzing Uber ride data
 - Dynamic Bookmarks: Seamless navigation across different views.
 - Clean UI: Dashboard designed for ease of interpretation and usability.
 
+  ## **🧠 Insights Delivered**
+- Peak demand was observed during late evenings and weekends
+- Certain zones consistently recorded higher ride activity (pickup/drop-off)
+- UberX and Uber Black categories dominated booking volumes.
+- Booking value and distance varied significantly by time and location
 
