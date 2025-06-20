@@ -4,19 +4,17 @@
 This project presents an interactive Power BI dashboard analyzing Uber ride data to extract key business insights. The goal was to identify trends in user behavior, booking patterns, and operational performance to support data-driven decision-making in areas like resource allocation, vehicle management, and demand forecasting.
 
 ## **🎯 Objectives**
-Understand ride patterns by time, location, and vehicle type
-Track and visualize key performance indicators (KPIs)
-Identify peak booking times and popular pickup/drop-off zones
-Create a user-friendly, interactive dashboard for stakeholders
+- **Understand ride patterns by time, location, and vehicle type.
+   - **Track and visualize key performance indicators (KPIs).
+   - **Identify peak booking times and popular pickup/drop-off zones.
+   - **Create a user-friendly, interactive dashboard for stakeholders.
 
-1. **Dataset Used:** Kaggle’s Walmart Sales Dataset(https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
-2. **Data Handling:** Python (using Pandas,Numpy for data cleaning and sqlalchemy, mysql-connector-python to connect to database and load the cleaned data into each database) ,MYSQL for quering .
+## **🛠 Tools & Technologies**
+Power BI
+DAX (Data Analysis Expressions)
+Power Query
 
 
-## **📋 Project Steps**
-### 1. Explore the Data
-   - **Goal**: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
-  
 ### 2. Data Cleaning
    - **Remove Duplicates**: Identify and remove duplicate entries to avoid skewed results.
    - **Handle Missing Values**: Drop rows or columns with missing values if they are insignificant; fill values where essential.
